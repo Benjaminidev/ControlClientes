@@ -8,7 +8,7 @@
         <version>3.1.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>mx.com.gm</groupId>
+    <groupId>com.bmd</groupId>
     <artifactId>ControlClientes-Spring</artifactId>
     <version>1.0</version>
     <name>Control Clientes Spring</name>
